@@ -1,0 +1,9 @@
+C:\Documents and Settings\911Admin\My Documents\Qwest Phone Data Converter\QPNDConv\QPNDConv\bin\Release\QPNDConv.exe
+C:\Documents and Settings\911Admin\My Documents\Qwest Phone Data Converter\QPNDConv\QPNDConv\bin\Release\QPNDConv.pdb
+C:\Documents and Settings\911Admin\My Documents\Qwest Phone Data Converter\QPNDConv\QPNDConv\bin\Release\QPNDConv.xml
+C:\Documents and Settings\911Admin\My Documents\Qwest Phone Data Converter\QPNDConv\QPNDConv\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\911Admin\My Documents\Qwest Phone Data Converter\QPNDConv\QPNDConv\obj\Release\QPNDConv.Resources.resources
+C:\Documents and Settings\911Admin\My Documents\Qwest Phone Data Converter\QPNDConv\QPNDConv\obj\Release\QPNDConv.vbproj.GenerateResource.Cache
+C:\Documents and Settings\911Admin\My Documents\Qwest Phone Data Converter\QPNDConv\QPNDConv\obj\Release\QPNDConv.exe
+C:\Documents and Settings\911Admin\My Documents\Qwest Phone Data Converter\QPNDConv\QPNDConv\obj\Release\QPNDConv.xml
+C:\Documents and Settings\911Admin\My Documents\Qwest Phone Data Converter\QPNDConv\QPNDConv\obj\Release\QPNDConv.pdb
